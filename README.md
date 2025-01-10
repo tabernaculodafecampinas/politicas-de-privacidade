@@ -1,3 +1,5 @@
+### Aplicativo Tabernáculo da Fé Campinas
+
 **Política de Privacidade**
 
 Esta Política de Privacidade descreve como coletamos, usamos e protegemos as informações dos usuários do nosso aplicativo Tabernáculo da Fé Campinas. Ao utilizar nosso App, você concorda com esta política.
